@@ -41,7 +41,7 @@ cent=-N12/N22;
 Phat=cent(:,1:L*p);
 Qhat=cent(:,L*p+1:end);
 
-sigma=svd(sqrt(inv(-N22))).*[svd(sqrt(N_N22));0;0];
+sigma=svd(sqrtm(inv(-N22))).*[svd(sqrtm(N_N22));0;0];
 
 switch nargin
     case 9
@@ -109,5 +109,3 @@ switch nargin
         error(msg)
 
 end
-
-

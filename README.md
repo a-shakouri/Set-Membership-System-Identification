@@ -16,4 +16,4 @@ This repository includes the following MATLAB files:
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[^1]: Shakouri, A., van Waarde, H.J. and Camlibel, M.K., 2024. System Identification using Energy-Bounded Noise Models: A Full Characterization of Chebyshev Centers and Radii. arXiv preprint arXiv:2403.05315.
+[^1]: [Shakouri, A., van Waarde, H.J. and Camlibel, M.K., 2024. System Identification using Energy-Bounded Noise Models: A Full Characterization of Chebyshev Centers and Radii. arXiv preprint arXiv:2403.05315](https://arxiv.org/abs/2403.05315).
